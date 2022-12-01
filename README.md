@@ -36,17 +36,7 @@
   <summary>Client</summary>
   <ul>
     <li><a href="https://reactjs.org/">yml for linters</a></li>
-  </ul>
-</details>
-<details>
-  <summary>Client</summary>
-  <ul>
     <li><a href="https://reactjs.org/">html</a></li>
-  </ul>
-</details>
-<details>
-  <summary>Client</summary>
-  <ul>
     <li><a href="https://reactjs.org/">css</a></li>
   </ul>
 </details>
